@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UserOrderManagerment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e214d7511fdfd016c81e26a646b7f0e4e8c2fee2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f5c44d2d00e70d9b332a291637b3aa8d086e2db")]
 [assembly: System.Reflection.AssemblyProductAttribute("UserOrderManagerment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UserOrderManagerment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
