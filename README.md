@@ -29,6 +29,7 @@ Project này phù hợp để luyện tập các kỹ năng backend quan trọng
 - [Ghi chú về EF Core](#ghi-chú-về-ef-core)
 - [Tối ưu hiệu năng](#tối-ưu-hiệu-năng)
 - [Mục tiêu học tập](#mục-tiêu-học-tập)
+- [License](#license)
 
 ## Tính năng chính
 
@@ -426,3 +427,9 @@ Mini project này được xây dựng để luyện tập:
 ## Ghi chú
 
 Đây là dự án mini project tự học về .NET backend. Mục tiêu chính là hiểu rõ cách xây dựng API, thiết kế database, thao tác với EF Core và tối ưu query ở mức nền tảng.
+
+## License
+
+Dự án này được sử dụng cho mục đích học tập, thực hành và xây dựng portfolio cá nhân.
+
+Bạn có thể tham khảo, chỉnh sửa và phát triển thêm theo nhu cầu học tập của mình.
